@@ -1,3 +1,5 @@
+package Nivel1;
+
 //Criar um código que realiza todas as funções
 // aritméticas usando os operadores
 public class Exercicios05 {

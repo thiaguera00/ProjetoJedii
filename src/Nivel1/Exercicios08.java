@@ -1,3 +1,5 @@
+
+
 //Criar um código que declara e inicializa variáveis primitivas e atribui
 // o seu próprio valor somado a ele mesmo utilizando operadores
 // de atribuição direta (+=, -=, *=...)
