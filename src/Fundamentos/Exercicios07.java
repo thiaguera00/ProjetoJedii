@@ -1,4 +1,4 @@
-package Nivel1;//Criar um código que verifica expressões booleanas
+package Fundamentos;//Criar um código que verifica expressões booleanas
 //(verdadeiro ou falso) utilizando operadores de comparação e operadores lógicos.
 
 public class Exercicios07 {

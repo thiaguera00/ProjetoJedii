@@ -1,4 +1,4 @@
-package Nivel1;
+package Fundamentos;
 //Declarar uma variável int numero dentro do escopo do método main e
 //na linha seguinte atribuir um valor para ela. Após isso,
 //usar o método System.out.println() para exibir o valor da variável no console.

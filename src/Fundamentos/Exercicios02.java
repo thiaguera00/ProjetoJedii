@@ -1,4 +1,4 @@
-package Nivel1;
+package Fundamentos;
 
 
 // Criar duas classes relacionadas (mesmo assunto). Ex: Carro e Moto.

@@ -1,4 +1,4 @@
-package Nivel1;
+package Fundamentos;
 
 //Criar um código que realiza todas as funções
 // aritméticas usando os operadores

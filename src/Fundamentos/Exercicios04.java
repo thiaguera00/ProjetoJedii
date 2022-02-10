@@ -1,4 +1,4 @@
-package Nivel1;//Criar um código que declara e inicializa variáveis
+package Fundamentos;//Criar um código que declara e inicializa variáveis
 // do tipo primitivo dentro do método main.
 
 public class Exercicios04 {
