@@ -1,4 +1,4 @@
-package Nivel2;
+package EstruturaCondicionais;
 //Criar um código que verifica se um valor de uma variável é igual a 100.
 // Caso verdadeiro, escrever no console: “Verdadeiro”
 public class Exercicios01 {

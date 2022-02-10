@@ -1,4 +1,4 @@
-package Nivel2;
+package EstruturaCondicionais;
 //Criar um código que verifica 3 vezes (IF) se o valor de uma variável é igual a um valor qualquer,
 // não atendendo em nenhum momentos as 3 condições e finalizando o fluxo no ELSE
 public class Exercicios03 {
