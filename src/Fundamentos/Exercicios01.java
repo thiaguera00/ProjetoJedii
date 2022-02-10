@@ -10,6 +10,6 @@ public class Exercicios01 {
         int number;
         number = 10;
         System.out.println(number);
-        System.out.println("teste");
+
     }
 }
