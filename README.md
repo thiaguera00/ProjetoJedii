@@ -6,7 +6,7 @@
 # Estrutura de repetição
   <h2> While </h2>
     While = enquanto <br>
-    While (<Condição>){<br>
+    While ("Condição"){<br>
     }
     Ex: quero printar olá  3x<br>
     crio uma variavel do tipo INT <br>
@@ -37,13 +37,13 @@
    
    Para funcionar a condição do while tinha que ser maior ou igual a 5 ai iria diminuir ate 5 🤩🤩 
   <h2> For </h2>
-  for(<Valor inicial>;<Condição>; <Passo>){<br>
+  for("Valor inicial"; "Condição"; "Passo"){<br>
   }<br>
   O for é a estrutara mais simples e mais tranquila de entender<br>
   ela vai fazer a repetição do mesmo jeito que as outras mas a sintaxe é mais facil 😁<br>
   declaro a variavel e faço a condição e seus passos em seguidas<br>
   Ex: <br>
-  for(contador = 1; contador < 10; contador++){<br>
+  for(contador" = 1; contador < 10; contador++){<br>
     System.out.println(contador)<br>
   }<br>
   No console vai aperecer de 1 até 10 👍👍
