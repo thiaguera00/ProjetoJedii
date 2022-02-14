@@ -15,6 +15,7 @@
     System.out.println("Olá);<br>
     contador++<br>
     "contador++" é justamento para alterar o valor e ir até 3<br>
+    Se fica em loop infinito eu errei na condição da variavel ou não declarei a variavel para mudar o valor
   <h2> Do While </h2>
   
   <h2> For </h2>
