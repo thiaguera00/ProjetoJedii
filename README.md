@@ -37,3 +37,11 @@
    
    Para funcionar a condição do while tinha que ser maior ou igual a 5 ai iria diminuir ate 5 🤩🤩 
   <h2> For </h2>
+  for(<Valor inicial>;<Condição>; <Passo>){<br>
+  }<br>
+  O for é a estrutara mais simples e mais tranquila de entender<br>
+  ela vai fazer a repetição do mesmo jeito que as outras mas a sintaxe é mais facil 😁<br>
+  declaro a variavel e faço a condição e seus passos em seguidas<br>
+  Ex: <br>
+  for(contador = 1; contador >= 100; contador++){
+    System.out.printl(contador)
