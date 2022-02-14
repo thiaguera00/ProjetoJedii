@@ -43,5 +43,7 @@
   ela vai fazer a repetição do mesmo jeito que as outras mas a sintaxe é mais facil 😁<br>
   declaro a variavel e faço a condição e seus passos em seguidas<br>
   Ex: <br>
-  for(contador = 1; contador >= 100; contador++){
-    System.out.printl(contador)
+  for(contador = 1; contador < 10; contador++){<br>
+    System.out.printl(contador)<br>
+  }<br>
+  No console vai aperecer de 1 até 10 👍👍
