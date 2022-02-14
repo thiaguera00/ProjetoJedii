@@ -44,6 +44,6 @@
   declaro a variavel e faço a condição e seus passos em seguidas<br>
   Ex: <br>
   for(contador = 1; contador < 10; contador++){<br>
-    System.out.printl(contador)<br>
+    System.out.println(contador)<br>
   }<br>
   No console vai aperecer de 1 até 10 👍👍
