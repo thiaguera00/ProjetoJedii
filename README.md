@@ -6,15 +6,15 @@
 # Estrutura de repetição
   <h2> While </h2>
     While = enquanto 
-    While (<Condição>){
+    While (<Condição>){<br>
     }
-    Ex: quero printar olá  3x
-    crio uma variavel do tipo INT 
-    int contador = 0;
-    while (contador < 3){
-    System.out.println("Olá);
-    contador++
-    "contador++" é justamento para alterar o valor e ir até 3
+    Ex: quero printar olá  3x<br>
+    crio uma variavel do tipo INT <br>
+    int contador = 0;<br>
+    while (contador < 3){<br>
+    System.out.println("Olá);<br>
+    contador++<br>
+    "contador++" é justamento para alterar o valor e ir até 3<br>
   <h2> Do While </h2>
   
   <h2> For </h2>
