@@ -29,12 +29,10 @@
      System.out.println(contador)<br>
      contador--<br>
     }<br>
-    while(contador <= 5){<br>
-     
-   }<br>
-    No console vai printar 10 porque pediu para printar mas não vai diminuir pois a verificação vem logo em seguida no while<br>
-    que menor que 5 como não é entao nao irá acontecer nada
-    
-    
-    
+    while(contador <= 5);<br>
+   
+   No console vai printar 10 porque pediu para printar mas não vai diminuir pois a verificação vem logo em seguida no while<br>
+   que menor que 5 como não é entao nao irá acontecer nada<br>
+   
+   Para funcionar a condição do while tinha que ser maior ou igual a 5 ai iria diminuir ate 5 🤩🤩 
   <h2> For </h2>
