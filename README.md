@@ -5,7 +5,7 @@
    
 # Estrutura de repetição
   <h2> While </h2>
-    While = enquanto 
+    While = enquanto <br>
     While (<Condição>){<br>
     }
     Ex: quero printar olá  3x<br>
